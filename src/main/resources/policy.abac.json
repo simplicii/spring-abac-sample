@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Default",
+    "type": "",
+    "description": "EDIT can edit everything",
+    "applicable": "action == 'EDIT'",
+    "condition": "subject.roles.contains('ROLE_USER')"
+  }
+]
