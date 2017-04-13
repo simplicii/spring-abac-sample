@@ -21,7 +21,7 @@ public class TestController {
 
 
     @RequestMapping(path = "sec")
-    @PreAuthorize("ckeckPolicy('EDIT')")
+    @PreAuthorize("checkPolicy('EDIT')")
     public String sec(){
         return "sec ok";
     }
