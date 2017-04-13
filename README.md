@@ -8,3 +8,7 @@ Until then you need to checkout my spring-specurity fork from https://github.com
 and build it on your own.
 
 Or download the SNAPSHOT jar from this repository: https://github.com/simplicii/spring-abac-sample/blob/master/lib/spring-security-abac-5.0.0.BUILD-SNAPSHOT.jar
+
+Manual:
+https://github.com/simplicii/spring-abac-sample/blob/master/spring-security-reference.pdf
+
